@@ -1,13 +1,16 @@
 Repositorio de Resultados - Curso de Word 📚
+
 Este repositorio contiene los resultados de las evaluaciones realizadas en la asignatura de Microsoft Word. A continuación, se detallan las instrucciones para acceder a la información y contactar al docente en caso de dudas.
+
 Descripción General 🌟
 Se presentan los resultados obtenidos por los estudiantes durante el curso, organizados de manera clara para facilitar el acceso a las calificaciones y comentarios. Este repositorio ofrece un espacio oficial donde los alumnos pueden consultar su progreso académico en Microsoft Word. ⭐
-Contenido Disponible 📑
 
+Contenido Disponible 📑
 Resultados de Evaluaciones: Archivos en formato PDF organizados por fecha o tipo de evaluación, detallando las calificaciones y observaciones de cada estudiante.
 Instrucciones Adicionales: Guías para interpretar los resultados y notas específicas proporcionadas por el docente.
 
 Cómo Acceder a los Archivos PDF 📂
+
 Pasos para la Descarga y Visualización:
 
 Navegación: Explore la lista de archivos en el repositorio. Los PDFs están nombrados como "Evaluación de [Nombre Completo].pdf" para facilitar su identificación. 🔍
@@ -20,14 +23,9 @@ Asegúrese de que el archivo contenga la información esperada. Si es necesario,
 
 Instrucciones Importantes 🔔
 Publicación de Resultados:
-
 Los resultados se publicarán de manera oportuna tras la corrección de cada evaluación. 🕒
+
 Manténgase atento a las actualizaciones del repositorio para nuevas publicaciones. 🔄
-
-Canales de Contacto:
-
-WhatsApp: 7656 5020. 📱
-Aula Digital: https://maualv1101.wixsite.com/cented 💻
 
 En Caso de Dudas:
 
